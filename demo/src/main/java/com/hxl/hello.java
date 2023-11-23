@@ -1,4 +1,4 @@
-package com.chx;
+package com.hxl;
 
 public class hello {
     public static void main(String[] args) {
